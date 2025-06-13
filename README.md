@@ -7,9 +7,9 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Piyush Malhotra
-located_in: Calgary, Alberta
-current_job: Full Stack Developer
+name: Damian Golał
+located_in: Toruń, Poland
+current_job: System Administrator
 education:
   [
     "Self-Taught Developer and Designer",
@@ -29,16 +29,13 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Dataspace P.S.A. - System Administrator",
+    "Dataspace Sp. z o.o. - Junior System Administrator",
+    "Dataspace Sp. z o.o. - Technical Specialist",
   ]
   
-currently_learning: ["Docker, Kubernetes, and React Native"]
+currently_learning: ["Kubernetes, Python FastAPI, Azure"]
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 ```
   
 ---  
