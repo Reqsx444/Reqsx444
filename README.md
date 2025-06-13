@@ -53,7 +53,7 @@ currently_learning: ["Kubernetes, Python FastAPI, Azure"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://img.icons8.com/?size=48&id=53iFar0HpEW9&format=png" alt="vscode" width="45" height="45"/>
 <img src="https://icons.fortinet.com/icons/Logos/Fortinet-logomark-rgb-red.svg" alt="vscode" width="45" height="45"/>
-<img src="https://img.icons8.com/?size=48&id=53iFar0HpEW9&format=png" alt="vscode" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/haproxy/haproxy-ar21.svg" alt="vscode" width="45" height="45"/>
 </p>
 
 <p align="center">
