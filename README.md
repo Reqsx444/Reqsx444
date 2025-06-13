@@ -12,20 +12,16 @@ located_in: Toruń, Poland
 current_job: System Administrator
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "Inżynier Informatyki - Akademia Kujawsko-Pomorska w Bydgoszczy",
+    "Technik Teleinformaty - Zespół Szkół Technicznych nr. 4 w Toruniu",
   ]
-company: Soulber
+company: Infracore Damian Golał
 
 fields_of_interests:
   [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
+    "Linux"
+    "Programming",
+    "Automation",
   ]
 technical_background:
   [
@@ -35,7 +31,7 @@ technical_background:
   ]
   
 currently_learning: ["Kubernetes, Python FastAPI, Azure"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 ```
   
 ---  
