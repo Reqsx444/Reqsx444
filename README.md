@@ -51,7 +51,8 @@ currently_learning: ["Kubernetes, Python FastAPI, Azure"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppeteer/puppeteer-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://img.icons8.com/?size=48&id=53iFar0HpEW9&format=png" alt="vscode" width="45" height="45"/>
+<img src="https://icons.fortinet.com/icons/Logos/Fortinet-logo-rgb-black-red.svg" alt="vscode" width="45" height="45"/>
 <img src="https://img.icons8.com/?size=48&id=53iFar0HpEW9&format=png" alt="vscode" width="45" height="45"/>
 </p>
 
