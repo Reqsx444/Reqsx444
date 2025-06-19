@@ -22,6 +22,9 @@ fields_of_interests:
     "Linux"
     "Programming",
     "Automation",
+    "Infrastructure as Code",
+    "Containerization" & virtualization"
+    
   ]
 technical_background:
   [
